@@ -42,8 +42,7 @@ The database has been created on phpMyAdmin with name “project” and contain 
 Regarding to the HTML we have used a form to make the user fill his information and once the user click the submit button, we will directly deal with the server side to register a record or to check if the record is already inside the database using php.
 
 ## References
-[1] https://scratchpad.fandom.com/wiki/Super_Mario_Bros./Characters/Gallery 
-
+[1] https://scratchpad.fandom.com/wiki/Super_Mario_Bros./Characters/Gallery
 [2]https://wallpaperaccess.com/retro-mario
 
 
