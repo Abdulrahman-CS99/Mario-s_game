@@ -1,0 +1,54 @@
+canvas{
+
+  display: block;
+  background-repeat: full;
+
+}
+body 
+{
+       
+  background-image: url(M-bg.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.style
+{ 
+  position: relative;
+  margin: 10%;
+  width: 300px;
+  height: 200px;
+  float: left;
+
+  background-color: rgb(7, 9, 37);
+  border-radius: 10px;
+  border-width: medium;
+  padding: 40px;
+  margin-left: 5%;
+  margin-top: 20%;
+}
+
+p
+{
+  text-decoration: bold;
+  color:#080b08;
+}
+            
+/* #button
+{
+  color: black;
+  font-weight: bold;
+  background-color: white;
+
+  padding: 10px;
+	margin: 20px;
+	border: 0px;
+	width: 120px;
+	border-radius: 8px;
+} */
+
+td 
+{
+  padding: 10px;
+}
