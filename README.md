@@ -1,17 +1,7 @@
 # Mario_game
 
 
-Al Imam Muhammad ibn Saud Islamic University                          College of Computer and Information System
-Computer Science Department
-2nd  Semester 1443 H – 2022 G
-
-
-
-
-CS 438 – Internet Technologies
-Project
-Mario game
-   
+CS 438 – Internet Technologies 
 STUDENT NAME	ID
 ABDULRAHMAN ALGHULAIGAH	439015052
 OMAIR ALJABRI	439012472
