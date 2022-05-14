@@ -30,6 +30,7 @@ May 14, 2022
  
  
 Figure 1: Flowchart
+
 2. Look & Feel  
 In this game, we are simulating the design of a Mario game using JavaScript. We have chosen Mario because it was the best childhood game for most kids of our generation. Also, we have used CSS to design the registration page and login page. Eventually, we picked the character, enemies and background from the internet and then connected them to our game [1].
 3. Dynamic Components 
