@@ -26,6 +26,9 @@ May 14, 2022
   In this project, we have developed a game on website that targets Mario’s game fans. The idea of the game is to help Mario avoid touching the enemies. We have used HTML, CSS, JavaScript and Php to implement the Mario Chrome game. 
 
 ## Goals
+1. Jump over enemies
+2. Score more points
+3. Challenge other players score
 
 ## 1.Flow Chart
  Figure 1: Flowchart
