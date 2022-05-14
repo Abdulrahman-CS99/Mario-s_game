@@ -31,7 +31,7 @@ May 14, 2022
  Figure 1: Flowchart
  
 ## 2.Look & Feel  
-In this game, we are simulating the design of a Mario game using JavaScript. We have chosen Mario because it was the best childhood game for most kids of our generation. Also, we have used CSS to design the registration page and login page. Eventually, we picked the character, enemies and background from the internet and then connected them to our game [1].
+In this game, we are simulating the design of a Mario game using JavaScript. We have chosen Mario because it was the best childhood game for most kids of our generation. Also, we have used CSS to design the registration page and login page. Eventually, we picked the character, enemies and background from the internet and then connected them to our game [1][2].
 ## 3.Dynamic Components 
 In “index.php” we have used three scripts that connect three JavaScript files with this web page.
 ## 4.Business Logic 
@@ -42,5 +42,7 @@ The database has been created on phpMyAdmin with name “project” and contain 
 Regarding to the HTML we have used a form to make the user fill his information and once the user click the submit button, we will directly deal with the server side to register a record or to check if the record is already inside the database using php.
 
 ## References
-[1]https://www.google.com/search?q=google+mario+character&sxsrf=ALiCzsbBEV5ML8ISd5N68AdnpHshgU_8QQ:1652541438249&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR35zLpN_3AhXJwoUKHXKDAKwQ_AUoAXoECAEQAw&biw=1920&bih=929&dpr=1#imgrc=ptwhQ-NlxV2gpM
+[1] https://scratchpad.fandom.com/wiki/Super_Mario_Bros./Characters/Gallery 
+[2]https://wallpaperaccess.com/retro-mario
+
 
